@@ -16,3 +16,7 @@ In the diagram above, "mywebsite.com" has been scraped as having the keywords as
 
 1. Name the key term of what a "Crawler" is used to do
     > Index
+2. What is the name of the technique that "Search Engines" use to retrieve this information about websites?
+    > Crawling
+3. What is an example of the type of contents that could be gathered from a website?
+    > Keywords    
